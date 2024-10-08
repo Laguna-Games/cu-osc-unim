@@ -13,3 +13,6 @@
 [submodule "lib/@layerzerolabs/solidity-examples"]
 	path = lib/@layerzerolabs/solidity-examples
 	url = https://github.com/Laguna-Games/LayerZero-solidity-examples
+[submodule "lib/cu-osc-layerzero"]
+	path = lib/cu-osc-layerzero
+	url = https://github.com/Laguna-Games/cu-osc-layerzero
