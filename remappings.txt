@@ -5,4 +5,4 @@ forge-std/=lib/forge-std/src/
 @lg-diamond-template/=lib/@lagunagames/lg-diamond-template/
 @lg-layerzero/=lib/@lg-layerzero/src/
 openzeppelin/=lib/@openzeppelin/contracts/
-@openzeppelin/=lib/@openzeppelin/
+@openzeppelin/=lib/openzeppelin-contracts/
