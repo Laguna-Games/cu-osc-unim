@@ -1,0 +1,8 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+@openzeppelin-contracts/=lib/@cu-tokens/lib/openzeppelin-contracts/
+@layerzerolabs/=lib/@layerzerolabs/
+@lg-diamond-template/=lib/@lagunagames/lg-diamond-template/
+@lg-layerzero/=lib/@lg-layerzero/src/
+openzeppelin/=lib/@openzeppelin/contracts/
+@openzeppelin/=lib/@openzeppelin/
